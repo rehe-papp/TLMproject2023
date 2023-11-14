@@ -7,3 +7,4 @@ How to run:
    ```
     OPENAI_API_KEY=your_key
    ```
+3. Make sure you have money in your OPENAI account :D
