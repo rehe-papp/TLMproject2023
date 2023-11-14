@@ -2,6 +2,10 @@ import json
 import os
 from openai import OpenAI
 import pandas as pd
+from dotenv import load_dotenv
+
+load_dotenv() #needed to load the API key from .env
+
 
 #client = OpenAI()
 # defaults to getting the key using os.environ.get("OPENAI_API_KEY")
@@ -19,9 +23,8 @@ for word in words:
 print(prompt)
 
 
-client = OpenAI(
-   api_key="",
-)
+
+client = OpenAI()
 
 """
 Within the OpenAI API, messages often adopt specific roles to guide the model’s responses. 
