@@ -35,14 +35,14 @@ with open('words.txt', encoding="UTF-8") as f:
 
 print(words)
 
-prompts = list()
+"""prompts = list()
 with open('prompts.txt', encoding="UTF-8") as f:
     for line in f:
         line = line.strip()
         res = line.split(" | ")
-        prompts.append((res[0], int(res[1])))
+        prompts.append((res[0], int(res[1])))"""
 
-print(prompts)
+"""print(prompts)"""
 
 
 client = OpenAI()
@@ -71,7 +71,7 @@ response = client.chat.completions.create(
 """def createPrompt(prompt, word):
     return """
 
-#i = 10
+"""#i = 10
 #for prompt in prompts:
 for i in range(16, 23):
 
@@ -99,31 +99,43 @@ for i in range(16, 23):
         outfile.write(line + "\n")
     outfile.close()
     #i += 1
-    time.sleep(60)
+    time.sleep(60)"""
 
-"""i = 10
-prompt = prompts[i]
-response_words = list()
-for word in words:
-    time.sleep(3)
-    prompt_to_send = insert_string(prompt[0], word.lower(), prompt[1])
-    try:
-        response = client.chat.completions.create(
-            model="gpt-3.5-turbo",
-            messages=[
-                {"role": "system", "content": prompt_to_send}
-            ]
-        )
 
-        generated_word = response.choices[0].message.content
-        print(f"{generated_word}")
-        response_words.append(generated_word)
+def run_prompt_100_words_together(words, prompt, filename):
+    client = OpenAI()
+    response_words = list()
+    words_to_send = ""
+    for word in words:
+        words_to_send += word+", "
+    print(words_to_send)
+    for i in range(100):
+        time.sleep(4)
+        prompt_to_send = "You are given a prompt and a list of words. For each word, replace the string '<word>' with a word from the list and give back a one word anwser, return answers for all words."
+        try:
+            response = client.chat.completions.create(
+                model="gpt-3.5-turbo",
+                messages=[
+                    {"role": "system", "content": prompt_to_send},
+                    {"role": "user", "content": "prompt:" + prompt},
+                    {"role": "user", "content": "words:" + words_to_send}
+                ]
+            )
 
-    except Exception as e:
-        print(f"Error during API call: {e}")
+            generated = response.choices[0].message.content
+            print(f"{generated}")
+            response_words.append(generated)
 
-outfile = open(f"response_words_prompt_{i}.txt", "w")
-for line in response_words:
-    outfile.write(line + "\n")
-outfile.close()"""
+        except Exception as e:
+            print(f"Error during API call: {e}")
+
+
+    outfile = open(f"{filename}.txt", "w")
+    for line in response_words:
+        outfile.write(line + "\n")
+        outfile.write("\n")
+    outfile.close()
+
+prompt = "Generate a word related to <word>."
+run_prompt_100_words_together(words, prompt, "test1")
 
