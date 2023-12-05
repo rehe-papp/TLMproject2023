@@ -71,12 +71,14 @@ response = client.chat.completions.create(
 """def createPrompt(prompt, word):
     return """
 
-"""i = 0
-for prompt in prompts:
+#i = 10
+#for prompt in prompts:
+for i in range(16, 23):
+
     response_words = list()
     for word in words:
-        time.sleep(2)
-        prompt_to_send = insert_string(prompt[0], word.lower(), prompt[1])
+        time.sleep(3)
+        prompt_to_send = insert_string(prompts[i][0], word.lower(), prompts[i][1])
         try:
             response = client.chat.completions.create(
                 model="gpt-3.5-turbo",
@@ -96,9 +98,10 @@ for prompt in prompts:
     for line in response_words:
         outfile.write(line + "\n")
     outfile.close()
-    i += 1"""
+    #i += 1
+    time.sleep(60)
 
-i = 6
+"""i = 10
 prompt = prompts[i]
 response_words = list()
 for word in words:
@@ -122,5 +125,5 @@ for word in words:
 outfile = open(f"response_words_prompt_{i}.txt", "w")
 for line in response_words:
     outfile.write(line + "\n")
-outfile.close()
+outfile.close()"""
 
