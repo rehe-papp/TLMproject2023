@@ -4809,7 +4809,6 @@ Generate a word related to PLAYING: Recreation
 Generate a word related to BOIL: Cook
 Generate a word related to DOMAIN: Area
 Generate a word related to INCLINE: Slope
-Generate a word 
 
 CREW: Team
 PIGMENT: Color
@@ -5922,7 +5921,6 @@ RECIPE: Formula
 SUN: Star
 FRIENDSHIP: Companionship
 
-Generate a word related to CREW.
 
 CREW - Team
 PIGMENT - Color

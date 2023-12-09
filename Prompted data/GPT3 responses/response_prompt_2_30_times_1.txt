@@ -1,0 +1,3129 @@
+CREW - Team
+PIGMENT - Color
+INVENT - Innovation
+LEVER - Mechanism
+RELIABLE - Trustworthy
+FACTORY - Production
+DENT - Damage
+NEIGHBOR - Community
+IMAGINATION - Creativity
+LIVING - Life
+SEASON - Time
+SHOWER - Cleanliness
+PRIM - Formal
+RURAL - Countryside
+CHEDDAR - Cheese
+DECORATION - Ornament
+FENCE - Boundary
+CORPORAL - Military
+BRIEF - Short
+ANXIETY - Stress
+ASSUME - Presume
+DISCOURAGE - Deter
+ROPE - Cord
+HAUNT - Ghost
+SECURE - Safe
+SURFACE - Exterior
+RADIO - Broadcast
+PUKE - Vomit
+EDGE - Border
+CALIFORNIA - State
+SAVE - Preserve
+CATERPILLAR - Larva
+FLUSH - Eliminate
+BASIC - Fundamental
+GOODBYE - Farewell
+STRANGE - Unusual
+STRAP - Fasten
+CONSIDER - Ponder
+ROOF - Top
+DANGEROUS - Hazardous
+IMPORTANT - Significant
+BULLY - Intimidate
+LIGHT - Illumination
+KING - Monarch
+ANGLE - Perspective
+POPCORN - Snack
+FIN - Appendage
+SUICIDE - Self-destruction
+PENCIL - Writing tool
+PEANUT BUTTER - Spread
+FISHING - Angling
+DIRECT - Guide
+INSURANCE - Coverage
+SOUTHERN - Southern region
+DECISION - Choice
+ATTACK - Assault
+CLERK - Employee
+ACTIVITY - Action
+POLICE - Law enforcement
+BOND - Connection
+FRIGHTENED - Terrified
+FREEZE - Solidify
+BAPTIST - Denomination
+ENTERTAINMENT - Amusement
+CAUTION - Warning
+FEMALE - Woman
+FLEA - Parasite
+GRADUATE - Graduation
+SHUT - Close
+STOP - Halt
+FREQUENT - Regular
+CIGAR - Smoke
+BURIAL - Interment
+MEND - Repair
+SEPARATE - Divide
+STARS - Celestial bodies
+EYEBALL - Eye
+STRICT - Stringent
+CUSS - Curse
+ALARM - Alert
+BRAKE - Stop
+ABILITY - Skill
+BLUFF - Deceive
+OUTCOME - Result
+MINK - Fur
+FORBIDDEN - Prohibited
+ASTEROID - Celestial object
+JOY - Happiness
+ACQUIRE - Obtain
+ECONOMY - Financial system
+FLOAT - Drift
+PLAYING - Recreation
+BOIL - Cook
+DOMAIN - Territory
+INCLINE - Slope
+ANXIOUS - Worried
+BRANDY - Liquor
+RECIPE - Cooking instructions
+SUN - Star
+FRIENDSHIP - Companionship
+
+CREW: Team
+PIGMENT: Color
+INVENT: Innovation
+LEVER: Power
+RELIABLE: Trustworthy
+FACTORY: Production
+DENT: Damage
+NEIGHBOR: Community
+IMAGINATION: Creativity
+LIVING: Life
+SEASON: Time
+SHOWER: Cleanse
+PRIM: Proper
+RURAL: Countryside
+CHEDDAR: Cheese
+DECORATION: Ornament
+FENCE: Boundary
+CORPORAL: Physical
+BRIEF: Short
+ANXIETY: Worry
+ASSUME: Presume
+DISCOURAGE: Demoralize
+ROPE: Tie
+HAUNT: Ghostly
+SECURE: Safe
+SURFACE: Exterior
+RADIO: Broadcast
+PUKE: Vomit
+EDGE: Border
+CALIFORNIA: Sunshine
+SAVE: Preserve
+CATERPILLAR: Metamorphosis
+FLUSH: Cleanse
+BASIC: Fundamental
+GOODBYE: Farewell
+STRANGE: Unusual
+STRAP: Fasten
+CONSIDER: Ponder
+ROOF: Overhead
+DANGEROUS: Hazardous
+IMPORTANT: Crucial
+BULLY: Intimidate
+LIGHT: Illuminate
+KING: Ruler
+ANGLE: Corner
+POPCORN: Snack
+FIN: Swimmer
+SUICIDE: Tragic
+PENCIL: Writing
+PEANUT BUTTER: Spread
+FISHING: Angling
+DIRECT: Guide
+INSURANCE: Coverage
+SOUTHERN: Southern
+DECISION: Choice
+ATTACK: Assault
+CLERK: Attendant
+ACTIVITY: Action
+POLICE: Law enforcement
+BOND: Connection
+FRIGHTENED: Scared
+FREEZE: Solidify
+BAPTIST: Religion
+ENTERTAINMENT: Amusement
+CAUTION: Warning
+FEMALE: Woman
+FLEA: Parasite
+GRADUATE: Degree
+SHUT: Close
+STOP: Cease
+FREQUENT: Regular
+CIGAR: Smoke
+BURIAL: Funeral
+MEND: Repair
+SEPARATE: Divide
+STARS: Celestial
+EYEBALL: Vision
+STRICT: Rigorous
+CUSS: Swear
+ALARM: Alert
+BRAKE: Stop
+ABILITY: Skill
+BLUFF: Deceive
+OUTCOME: Result
+MINK: Fur
+FORBIDDEN: Prohibited
+ASTEROID: Meteor
+JOY: Happiness
+ACQUIRE: Obtain
+ECONOMY: Financial
+FLOAT: Drift
+PLAYING: Fun
+BOIL: Heat
+DOMAIN: Territory
+INCLINE: Slope
+ANXIOUS: Worried
+BRANDY: Liquor
+RECIPE: Cooking
+SUN: Shine
+FRIENDSHIP: Companionship
+
+Crew: Team
+Pigment: Color
+Invent: Innovation
+Lever: Mechanism
+Reliable: Trustworthy
+Factory: Production
+Dent: Damage
+Neighbor: Community
+Imagination: Creativity
+Living: Life
+Season: Time
+Shower: Cleanse
+Prim: Refined
+Rural: Countryside
+Cheddar: Cheese
+Decoration: Ornamentation
+Fence: Barrier
+Corporal: Military
+Brief: Concise
+Anxiety: Worry
+Assume: Presume
+Discourage: Deter
+Rope: Cord
+Haunt: Ghost
+Secure: Safe
+Surface: Exterior
+Radio: Broadcast
+Puke: Vomit
+Edge: Border
+California: Sunshine
+Save: Preserve
+Caterpillar: Larva
+Flush: Empty
+Basic: Fundamental
+Goodbye: Farewell
+Strange: Peculiar
+Strap: Fasten
+Consider: Ponder
+Roof: Overhead
+Dangerous: Hazardous
+Important: Significant
+Bully: Intimidate
+Light: Illumination
+King: Monarch
+Angle: Perspective
+Popcorn: Snack
+Fin: Finale
+Suicide: Self-destruction
+Pencil: Writing
+Peanut Butter: Spread
+Fishing: Angling
+Direct: Guide
+Insurance: Coverage
+Southern: South
+Decision: Choice
+Attack: Assault
+Clerk: Employee
+Activity: Action
+Police: Law enforcement
+Bond: Connection
+Frightened: Terrified
+Freeze: Solidify
+Baptist: Denomination
+Entertainment: Amusement
+Caution: Warning
+Female: Woman
+Flea: Parasite
+Graduate: Diploma
+Shut: Close
+Stop: Halt
+Frequent: Regular
+Cigar: Smoke
+Burial: Interment
+Mend: Repair
+Separate: Divide
+Stars: Celestial
+Eyeball: Orb
+Strict: Rigid
+Cuss: Swear
+Alarm: Alert
+Brake: Stop
+Ability: Capability
+Bluff: Deceive
+Outcome: Result
+Mink: Fur
+Forbidden: Prohibited
+Asteroid: Space
+Joy: Happiness
+Acquire: Obtain
+Economy: Financial
+Float: Drift
+Playing: Recreation
+Boil: Cook
+Domain: Territory
+Incline: Slope
+Anxious: Worried
+Brandy: Liquor
+Recipe: Formula
+Sun: Star
+Friendship: Companionship
+
+CREW: Team
+PIGMENT: Color
+INVENT: Innovation
+LEVER: Power
+RELIABLE: Trustworthy
+FACTORY: Production
+DENT: Damage
+NEIGHBOR: Community
+IMAGINATION: Creativity
+LIVING: Life
+SEASON: Change
+SHOWER: Cleanse
+PRIM: Formal
+RURAL: Countryside
+CHEDDAR: Cheese
+DECORATION: Ornament
+FENCE: Boundary
+CORPORAL: Physical
+BRIEF: Concise
+ANXIETY: Worry
+ASSUME: Presume
+DISCOURAGE: Demoralize
+ROPE: Tether
+HAUNT: Ghost
+SECURE: Safe
+SURFACE: Exterior
+RADIO: Broadcast
+PUKE: Vomit
+EDGE: Boundary
+CALIFORNIA: Sunshine
+SAVE: Preserve
+CATERPILLAR: Transformation
+FLUSH: Cleanse
+BASIC: Fundamental
+GOODBYE: Farewell
+STRANGE: Unusual
+STRAP: Fasten
+CONSIDER: Ponder
+ROOF: Shelter
+DANGEROUS: Hazardous
+IMPORTANT: Significant
+BULLY: Intimidate
+LIGHT: Illuminate
+KING: Monarch
+ANGLE: Perspective
+POPCORN: Snack
+FIN: Swim
+SUICIDE: Tragedy
+PENCIL: Write
+PEANUT BUTTER: Spread
+FISHING: Catch
+DIRECT: Lead
+INSURANCE: Protection
+SOUTHERN: Warm
+DECISION: Choice
+ATTACK: Strike
+CLERK: Assistant
+ACTIVITY: Engage
+POLICE: Law
+BOND: Connection
+FRIGHTENED: Scared
+FREEZE: Frost
+BAPTIST: Baptize
+ENTERTAINMENT: Amuse
+CAUTION: Alert
+FEMALE: Woman
+FLEA: Parasite
+GRADUATE: Degree
+SHUT: Close
+STOP: Cease
+FREQUENT: Regularly
+CIGAR: Smoke
+BURIAL: Interment
+MEND: Repair
+SEPARATE: Divide
+STARS: Celestial
+EYEBALL: Eye
+STRICT: Rigorous
+CUSS: Swear
+ALARM: Alert
+BRAKE: Stop
+ABILITY: Skill
+BLUFF: Deceive
+OUTCOME: Result
+MINK: Fur
+FORBIDDEN: Prohibited
+ASTEROID: Space
+JOY: Happiness
+ACQUIRE: Obtain
+ECONOMY: Financial
+FLOAT: Drift
+PLAYING: Fun
+BOIL: Cook
+DOMAIN: Territory
+INCLINE: Tilt
+ANXIOUS: Nervous
+BRANDY: Liquor
+RECIPE: Cook
+SUN: Shine
+FRIENDSHIP: Bond
+
+CREW - Team
+PIGMENT - Color
+INVENT - Innovation
+LEVER - Power
+RELIABLE - Trustworthy
+FACTORY - Production
+DENT - Damage
+NEIGHBOR - Community
+IMAGINATION - Creativity
+LIVING - Life
+SEASON - Change
+SHOWER - Cleansing
+PRIM - Proper
+RURAL - Countryside
+CHEDDAR - Cheese
+DECORATION - Ornament
+FENCE - Boundary
+CORPORAL - Soldier
+BRIEF - Concise
+ANXIETY - Worry
+ASSUME - Presume
+DISCOURAGE - Deter
+ROPE - Pull
+HAUNT - Ghost
+SECURE - Safe
+SURFACE - Exterior
+RADIO - Broadcast
+PUKE - Vomit
+EDGE - Border
+CALIFORNIA - Sunshine
+SAVE - Protect
+CATERPILLAR - Transformation
+FLUSH - Cleanse
+BASIC - Fundamental
+GOODBYE - Farewell
+STRANGE - Unusual
+STRAP - Fasten
+CONSIDER - Ponder
+ROOF - Shelter
+DANGEROUS - Hazardous
+IMPORTANT - Significant
+BULLY - Intimidate
+LIGHT - Illuminate
+KING - Monarch
+ANGLE - Slope
+POPCORN - Snack
+FIN - Swim
+SUICIDE - Despair
+PENCIL - Write
+PEANUT BUTTER - Spread
+FISHING - Catch
+DIRECT - Guide
+INSURANCE - Protection
+SOUTHERN - Warm
+DECISION - Choice
+ATTACK - Assault
+CLERK - Assistant
+ACTIVITY - Engagement
+POLICE - Law enforcement
+BOND - Connection
+FRIGHTENED - Terrified
+FREEZE - Solidify
+BAPTIST - Baptism
+ENTERTAINMENT - Amusement
+CAUTION - Warning
+FEMALE - Woman
+FLEA - Parasite
+GRADUATE - Accomplish
+SHUT - Close
+STOP - Halt
+FREQUENT - Regular
+CIGAR - Smoking
+BURIAL - Interment
+MEND - Repair
+SEPARATE - Divide
+STARS - Celestial
+EYEBALL - Vision
+STRICT - Rigorous
+CUSS - Curse
+ALARM - Alert
+BRAKE - Halt
+ABILITY - Capability
+BLUFF - Deception
+OUTCOME - Result
+MINK - Fur
+FORBIDDEN - Prohibited
+ASTEROID - Celestial
+JOY - Happiness
+ACQUIRE - Obtain
+ECONOMY - Financial
+FLOAT - Drift
+PLAYING - Recreation
+BOIL - Heat
+DOMAIN - Territory
+INCLINE - Lean
+ANXIOUS - Worried
+BRANDY - Alcohol
+RECIPE - Cooking
+SUN - Sunshine
+FRIENDSHIP - Companionship
+
+CREW: Team
+PIGMENT: Color
+INVENT: Innovation
+LEVER: Mechanism
+RELIABLE: Trustworthy
+FACTORY: Production
+DENT: Damage
+NEIGHBOR: Community
+IMAGINATION: Creativity
+LIVING: Life
+SEASON: Change
+SHOWER: Cleanliness
+PRIM: Formal
+RURAL: Countryside
+CHEDDAR: Cheese
+DECORATION: Ornament
+FENCE: Boundary
+CORPORAL: Physical
+BRIEF: Concise
+ANXIETY: Worry
+ASSUME: Presume
+DISCOURAGE: Deter
+ROPE: Cord
+HAUNT: Ghost
+SECURE: Safe
+SURFACE: Exterior
+RADIO: Broadcast
+PUKE: Vomit
+EDGE: Boundary
+CALIFORNIA: Sunshine
+SAVE: Preserve
+CATERPILLAR: Larva
+FLUSH: Drain
+BASIC: Fundamentals
+GOODBYE: Farewell
+STRANGE: Unusual
+STRAP: Fasten
+CONSIDER: Ponder
+ROOF: Top
+DANGEROUS: Hazardous
+IMPORTANT: Significant
+BULLY: Intimidate
+LIGHT: Illumination
+KING: Monarch
+ANGLE: Perspective
+POPCORN: Snack
+FIN: Swim
+SUICIDE: Self-destruction
+PENCIL: Writing tool
+PEANUT BUTTER: Spread
+FISHING: Angling
+DIRECT: Lead
+INSURANCE: Coverage
+SOUTHERN: Region
+DECISION: Choice
+ATTACK: Assault
+CLERK: Attendant
+ACTIVITY: Engagement
+POLICE: Law enforcement
+BOND: Connection
+FRIGHTENED: Scared
+FREEZE: Solidify
+BAPTIST: Denomination
+ENTERTAINMENT: Amusement
+CAUTION: Warning
+FEMALE: Woman
+FLEA: Parasite
+GRADUATE: Complete
+SHUT: Close
+STOP: Halt
+FREQUENT: Regular
+CIGAR: Smoke
+BURIAL: Interment
+MEND: Repair
+SEPARATE: Divide
+STARS: Celestial
+EYEBALL: Vision
+STRICT: Rigorous
+CUSS: Swear
+ALARM: Alert
+BRAKE: Stop
+ABILITY: Skill
+BLUFF: Deceive
+OUTCOME: Result
+MINK: Fur
+FORBIDDEN: Prohibited
+ASTEROID: Celestial body
+JOY: Happiness
+ACQUIRE: Obtain
+ECONOMY: Financial system
+FLOAT: Drift
+PLAYING: Recreation
+BOIL: Heat
+DOMAIN: Territory
+INCLINE: Slope
+ANXIOUS: Worried
+BRANDY: Liquor
+RECIPE: Cooking instructions
+SUN: Star
+FRIENDSHIP: Companionship
+
+CREW - Team
+PIGMENT - Color
+INVENT - Innovation
+LEVER - Mechanism
+RELIABLE - Trustworthy
+FACTORY - Production
+DENT - Damage
+NEIGHBOR - Community
+IMAGINATION - Creativity
+LIVING - Life
+SEASON - Time
+SHOWER - Cleanliness
+PRIM - Proper
+RURAL - Countryside
+CHEDDAR - Cheese
+DECORATION - Ornament
+FENCE - Boundary
+CORPORAL - Physical
+BRIEF - Concise
+ANXIETY - Fear
+ASSUME - Presume
+DISCOURAGE - Demotivate
+ROPE - Lasso
+HAUNT - Ghost
+SECURE - Safe
+SURFACE - Exterior
+RADIO - Broadcast
+PUKE - Vomit
+EDGE - Boundary
+CALIFORNIA - Sunshine
+SAVE - Preserve
+CATERPILLAR - Transformation
+FLUSH - Cleanse
+BASIC - Fundamental
+GOODBYE - Farewell
+STRANGE - Unusual
+STRAP - Fasten
+CONSIDER - Ponder
+ROOF - Overhead
+DANGEROUS - Risky
+IMPORTANT - Significant
+BULLY - Intimidate
+LIGHT - Illuminate
+KING - Monarch
+ANGLE - Perspective
+POPCORN - Snack
+FIN - Swim
+SUICIDE - Tragedy
+PENCIL - Writing
+PEANUT BUTTER - Spread
+FISHING - Angling
+DIRECT - Guide
+INSURANCE - Protection
+SOUTHERN - Southern
+DECISION - Choice
+ATTACK - Assault
+CLERK - Employee
+ACTIVITY - Action
+POLICE - Law
+BOND - Connection
+FRIGHTENED - Scared
+FREEZE - Solidify
+BAPTIST - Religion
+ENTERTAINMENT - Amusement
+CAUTION - Warning
+FEMALE - Woman
+FLEA - Parasite
+GRADUATE - Completion
+SHUT - Close
+STOP - Halt
+FREQUENT - Regular
+CIGAR - Smoke
+BURIAL - Funeral
+MEND - Repair
+SEPARATE - Divide
+STARS - Celestial
+EYEBALL - Eye
+STRICT - Stringent
+CUSS - Swear
+ALARM - Alert
+BRAKE - Stop
+ABILITY - Skill
+BLUFF - Deceive
+OUTCOME - Result
+MINK - Fur
+FORBIDDEN - Prohibited
+ASTEROID - Space
+JOY - Happiness
+ACQUIRE - Obtain
+ECONOMY - Financial
+FLOAT - Drift
+PLAYING - Recreation
+BOIL - Heat
+DOMAIN - Territory
+INCLINE - Slope
+ANXIOUS - Worried
+BRANDY - Alcohol
+RECIPE - Cooking
+SUN - Star
+FRIENDSHIP - Camaraderie
+
+CREW: Collaboration
+PIGMENT: Color
+INVENT: Innovation
+LEVER: Power
+RELIABLE: Trustworthy
+FACTORY: Production
+DENT: Damage
+NEIGHBOR: Community
+IMAGINATION: Creativity
+LIVING: Life
+SEASON: Change
+SHOWER: Cleanliness
+PRIM: Formality
+RURAL: Countryside
+CHEDDAR: Cheese
+DECORATION: Beauty
+FENCE: Boundary
+CORPORAL: Physical
+BRIEF: Concise
+ANXIETY: Fear
+ASSUME: Presume
+DISCOURAGE: Deter
+ROPE: Tension
+HAUNT: Ghost
+SECURE: Safe
+SURFACE: Exterior
+RADIO: Broadcast
+PUKE: Vomit
+EDGE: Brink
+CALIFORNIA: Sunshine
+SAVE: Preserve
+CATERPILLAR: Transformation
+FLUSH: Drain
+BASIC: Fundamental
+GOODBYE: Farewell
+STRANGE: Unusual
+STRAP: Fasten
+CONSIDER: Ponder
+ROOF: Shelter
+DANGEROUS: Hazardous
+IMPORTANT: Significant
+BULLY: Intimidate
+LIGHT: Illuminate
+KING: Royalty
+ANGLE: Perspective
+POPCORN: Snack
+FIN: End
+SUICIDE: Tragedy
+PENCIL: Writing
+PEANUT BUTTER: Peanutty
+FISHING: Relaxation
+DIRECT: Lead
+INSURANCE: Protection
+SOUTHERN: Warmth
+DECISION: Choice
+ATTACK: Assault
+CLERK: Service
+ACTIVITY: Engagement
+POLICE: Law
+BOND: Connection
+FRIGHTENED: Scared
+FREEZE: Solidify
+BAPTIST: Faith
+ENTERTAINMENT: Amusement
+CAUTION: Alert
+FEMALE: Womanly
+FLEA: Parasite
+GRADUATE: Accomplishment
+SHUT: Close
+STOP: Halt
+FREQUENT: Regular
+CIGAR: Smoke
+BURIAL: Finality
+MEND: Repair
+SEPARATE: Divide
+STARS: Celestial
+EYEBALL: Vision
+STRICT: Rigorous
+CUSS: Swear
+ALARM: Alert
+BRAKE: Stop
+ABILITY: Capacity
+BLUFF: Deceive
+OUTCOME: Result
+MINK: Fur
+FORBIDDEN: Taboo
+ASTEROID: Space
+JOY: Happiness
+ACQUIRE: Obtain
+ECONOMY: Finances
+FLOAT: Drift
+PLAYING: Recreation
+BOIL: Cook
+DOMAIN: Territory
+INCLINE: Slope
+ANXIOUS: Worried
+BRANDY: Spirit
+RECIPE: Cooking
+SUN: Warmth
+FRIENDSHIP: Companionship
+
+CREW: Team
+
+PIGMENT: Color
+
+INVENT: Innovation
+
+LEVER: Mechanical
+
+RELIABLE: Trustworthy
+
+FACTORY: Production
+
+DENT: Damage
+
+NEIGHBOR: Community
+
+IMAGINATION: Creativity
+
+LIVING: Life
+
+SEASON: Change
+
+SHOWER: Cleanse
+
+PRIM: Proper
+
+RURAL: Countryside
+
+CHEDDAR: Cheese
+
+DECORATION: Ornament
+
+FENCE: Boundary
+
+CORPORAL: Physical
+
+BRIEF: Concise
+
+ANXIETY: Worry
+
+ASSUME: Presume
+
+DISCOURAGE: Deflate
+
+ROPE: Cord
+
+HAUNT: Ghostly
+
+SECURE: Safe
+
+SURFACE: Exterior
+
+RADIO: Broadcast
+
+PUKE: Vomit
+
+EDGE: Boundary
+
+CALIFORNIA: Sunshine
+
+SAVE: Preserve
+
+CATERPILLAR: Metamorphosis
+
+FLUSH: Cleanse
+
+BASIC: Fundamental
+
+GOODBYE: Farewell
+
+STRANGE: Unusual
+
+STRAP: Fasten
+
+CONSIDER: Ponder
+
+ROOF: Top
+
+DANGEROUS: Risky
+
+IMPORTANT: Significant
+
+BULLY: Intimidate
+
+LIGHT: Illuminate
+
+KING: Ruler
+
+ANGLE: Perspective
+
+POPCORN: Snack
+
+FIN: End
+
+SUICIDE: Tragedy
+
+PENCIL: Writing
+
+PEANUT BUTTER: Spread
+
+FISHING: Angler
+
+DIRECT: Guide
+
+INSURANCE: Protection
+
+SOUTHERN: Warm
+
+DECISION: Choice
+
+ATTACK: Assail
+
+CLERK: Attendant
+
+ACTIVITY: Action
+
+POLICE: Law
+
+BOND: Connection
+
+FRIGHTENED: Scared
+
+FREEZE: Solidify
+
+BAPTIST: Baptism
+
+ENTERTAINMENT: Amusement
+
+CAUTION: Careful
+
+FEMALE: Woman
+
+FLEA: Parasite
+
+GRADUATE: Diploma
+
+SHUT: Close
+
+STOP: Cease
+
+FREQUENT: Regular
+
+CIGAR: Tobacco
+
+BURIAL: Interment
+
+MEND: Repair
+
+SEPARATE: Divide
+
+STARS: Celestial
+
+EYEBALL: Vision
+
+STRICT: Stringent
+
+CUSS: Swear
+
+ALARM: Alert
+
+BRAKE: Stop
+
+ABILITY: Skill
+
+BLUFF: Deceive
+
+OUTCOME: Result
+
+MINK: Fur
+
+FORBIDDEN: Prohibited
+
+ASTEROID: Space
+
+JOY: Happiness
+
+ACQUIRE: Obtain
+
+ECONOMY: Finance
+
+FLOAT: Drift
+
+PLAYING: Fun
+
+BOIL: Heat
+
+DOMAIN: Territory
+
+INCLINE: Lean
+
+ANXIOUS: Worried
+
+BRANDY: Drink
+
+RECIPE: Cooking
+
+SUN: Sunshine
+
+FRIENDSHIP: Companionship
+
+CREW: Collaboration
+PIGMENT: Colorful
+INVENT: Innovation
+LEVER: Mechanical
+RELIABLE: Trustworthy
+FACTORY: Production
+DENT: Damage
+NEIGHBOR: Community
+IMAGINATION: Creativity
+LIVING: Vibrant
+SEASON: Change
+SHOWER: Refreshing
+PRIM: Proper
+RURAL: Countryside
+CHEDDAR: Cheese
+DECORATION: Ornamentation
+FENCE: Boundary
+CORPORAL: Physical
+BRIEF: Concise
+ANXIETY: Worry
+ASSUME: Presume
+DISCOURAGE: Deter
+ROPE: Tether
+HAUNT: Unsettling
+SECURE: Safe
+SURFACE: Exterior
+RADIO: Broadcast
+PUKE: Vomit
+EDGE: Boundary
+CALIFORNIA: Sunshine
+SAVE: Preserve
+CATERPILLAR: Metamorphosis
+FLUSH: Cleanse
+BASIC: Fundamental
+GOODBYE: Farewell
+STRANGE: Peculiar
+STRAP: Fasten
+CONSIDER: Ponder
+ROOF: Shelter
+DANGEROUS: Hazardous
+IMPORTANT: Crucial
+BULLY: Intimidate
+LIGHT: Illuminate
+KING: Monarch
+ANGLE: Perspective
+POPCORN: Snack
+FIN: Fins
+SUICIDE: Tragedy
+PENCIL: Writing
+PEANUT BUTTER: Nutty
+FISHING: Angler
+DIRECT: Guide
+INSURANCE: Protection
+SOUTHERN: Warm
+DECISION: Choice
+ATTACK: Assault
+CLERK: Employee
+ACTIVITY: Engagement
+POLICE: Enforcement
+BOND: Connection
+FRIGHTENED: Terrified
+FREEZE: Solidify
+BAPTIST: Religion
+ENTERTAINMENT: Amusement
+CAUTION: Alert
+FEMALE: Woman
+FLEA: Parasite
+GRADUATE: Accomplishment
+SHUT: Close
+STOP: Halt
+FREQUENT: Regular
+CIGAR: Smoke
+BURIAL: Interment
+MEND: Repair
+SEPARATE: Divide
+STARS: Celestial
+EYEBALL: Vision
+STRICT: Rigorous
+CUSS: Curse
+ALARM: Alert
+BRAKE: Stop
+ABILITY: Capability
+BLUFF: Deceive
+OUTCOME: Result
+MINK: Fur
+FORBIDDEN: Prohibited
+ASTEROID: Celestial
+JOY: Happiness
+ACQUIRE: Obtain
+ECONOMY: Financial
+FLOAT: Drift
+PLAYING: Recreation
+BOIL: Heat
+DOMAIN: Territory
+INCLINE: Slope
+ANXIOUS: Worried
+BRANDY: Distilled
+RECIPE: Cooking
+SUN: Sunshine
+FRIENDSHIP: Companionship
+
+CREW: Collaboration
+PIGMENT: Color
+INVENT: Innovation
+LEVER: Power
+RELIABLE: Trustworthy
+FACTORY: Production
+DENT: Damage
+NEIGHBOR: Community
+IMAGINATION: Creativity
+LIVING: Existence
+SEASON: Change
+SHOWER: Cleanse
+PRIM: Proper
+RURAL: Countryside
+CHEDDAR: Cheese
+DECORATION: Beauty
+FENCE: Boundary
+CORPORAL: Physical
+BRIEF: Concise
+ANXIETY: Worry
+ASSUME: Presume
+DISCOURAGE: Deter
+ROPE: Tie
+HAUNT: Ghost
+SECURE: Safe
+SURFACE: Exterior
+RADIO: Broadcast
+PUKE: Vomit
+EDGE: Boundary
+CALIFORNIA: Sunshine
+SAVE: Preserve
+CATERPILLAR: Transformation
+FLUSH: Clean
+BASIC: Fundamental
+GOODBYE: Farewell
+STRANGE: Unusual
+STRAP: Secure
+CONSIDER: Ponder
+ROOF: Overhead
+DANGEROUS: Hazardous
+IMPORTANT: Essential
+BULLY: Intimidate
+LIGHT: Illuminate
+KING: Ruler
+ANGLE: Perspective
+POPCORN: Snack
+FIN: End
+SUICIDE: Tragedy
+PENCIL: Write
+PEANUT BUTTER: Spread
+FISHING: Catch
+DIRECT: Guide
+INSURANCE: Protection
+SOUTHERN: Warmth
+DECISION: Choice
+ATTACK: Assault
+CLERK: Transaction
+ACTIVITY: Action
+POLICE: Enforcement
+BOND: Connection
+FRIGHTENED: Scared
+FREEZE: Solidify
+BAPTIST: Baptism
+ENTERTAINMENT: Amusement
+CAUTION: Alert
+FEMALE: Woman
+FLEA: Pest
+GRADUATE: Accomplish
+SHUT: Close
+STOP: Halt
+FREQUENT: Often
+CIGAR: Smoke
+BURIAL: Funeral
+MEND: Repair
+SEPARATE: Divide
+STARS: Celestial
+EYEBALL: Vision
+STRICT: Rigorous
+CUSS: Swear
+ALARM: Alert
+BRAKE: Stop
+ABILITY: Skill
+BLUFF: Deceive
+OUTCOME: Result
+MINK: Fur
+FORBIDDEN: Prohibited
+ASTEROID: Space
+JOY: Happiness
+ACQUIRE: Obtain
+ECONOMY: Finance
+FLOAT: Drift
+PLAYING: Fun
+BOIL: Heat
+DOMAIN: Territory
+INCLINE: Lean
+ANXIOUS: Worried
+BRANDY: Alcohol
+RECIPE: Cooking
+SUN: Light
+FRIENDSHIP: Connection
+
+CREW - Team
+PIGMENT - Color
+INVENT - Innovation
+LEVER - Power
+RELIABLE - Trustworthy
+FACTORY - Production
+DENT - Damage
+NEIGHBOR - Community
+IMAGINATION - Creativity
+LIVING - Life
+SEASON - Change
+SHOWER - Cleanse
+PRIM - Proper
+RURAL - Countryside
+CHEDDAR - Cheese
+DECORATION - Ornament
+FENCE - Boundary
+CORPORAL - Physical
+BRIEF - Concise
+ANXIETY - Worry
+ASSUME - Presume
+DISCOURAGE - Deter
+ROPE - Tie
+HAUNT - Ghost
+SECURE - Safe
+SURFACE - Exterior
+RADIO - Broadcast
+PUKE - Vomit
+EDGE - Border
+CALIFORNIA - Sunshine
+SAVE - Preserve
+CATERPILLAR - Transformation
+FLUSH - Eliminate
+BASIC - Simple
+GOODBYE - Farewell
+STRANGE - Unusual
+STRAP - Fasten
+CONSIDER - Ponder
+ROOF - Shelter
+DANGEROUS - Risky
+IMPORTANT - Crucial
+BULLY - Intimidate
+LIGHT - Illuminate
+KING - Ruler
+ANGLE - Perspective
+POPCORN - Snack
+FIN - Swim
+SUICIDE - Tragedy
+PENCIL - Write
+PEANUT BUTTER - Spread
+FISHING - Catch
+DIRECT - Guide
+INSURANCE - Protection
+SOUTHERN - Warmth
+DECISION - Choice
+ATTACK - Assault
+CLERK - Attendant
+ACTIVITY - Engagement
+POLICE - Enforce
+BOND - Connection
+FRIGHTENED - Scared
+FREEZE - Immobilize
+BAPTIST - Religious
+ENTERTAINMENT - Amusement
+CAUTION - Alert
+FEMALE - Woman
+FLEA - Parasite
+GRADUATE - Accomplish
+SHUT - Close
+STOP - Halt
+FREQUENT - Regular
+CIGAR - Smoke
+BURIAL - Interment
+MEND - Repair
+SEPARATE - Divide
+STARS - Celestial
+EYEBALL - Vision
+STRICT - Rigorous
+CUSS - Swear
+ALARM - Alert
+BRAKE - Stop
+ABILITY - Capability
+BLUFF - Deceive
+OUTCOME - Result
+MINK - Fur
+FORBIDDEN - Prohibited
+ASTEROID - Space
+JOY - Happiness
+ACQUIRE - Obtain
+ECONOMY - Finances
+FLOAT - Drift
+PLAYING - Recreation
+BOIL - Cook
+DOMAIN - Territory
+INCLINE - Lean
+ANXIOUS - Nervous
+BRANDY - Liquor
+RECIPE - Cooking
+SUN - Light
+FRIENDSHIP - Companionship
+
+CREW - Team
+PIGMENT - Color
+INVENT - Innovation
+LEVER - Mechanical
+RELIABLE - Trustworthy
+FACTORY - Manufacturing
+DENT - Damage
+NEIGHBOR - Community
+IMAGINATION - Creativity
+LIVING - Life
+SEASON - Change
+SHOWER - Cleanliness
+PRIM - Formal
+RURAL - Countryside
+CHEDDAR - Cheese
+DECORATION - Ornamentation
+FENCE - Boundary
+CORPORAL - Physical
+BRIEF - Short
+ANXIETY - Worry
+ASSUME - Presume
+DISCOURAGE - Deter
+ROPE - Cord
+HAUNT - Ghostly
+SECURE - Safe
+SURFACE - Exterior
+RADIO - Broadcast
+PUKE - Vomit
+EDGE - Border
+CALIFORNIA - Sunshine
+SAVE - Preserve
+CATERPILLAR - Transformation
+FLUSH - Cleanse
+BASIC - Fundamental
+GOODBYE - Farewell
+STRANGE - Unusual
+STRAP - Secure
+CONSIDER - Ponder
+ROOF - Top
+DANGEROUS - Hazardous
+IMPORTANT - Significant
+BULLY - Intimidate
+LIGHT - Illuminate
+KING - Ruler
+ANGLE - Perspective
+POPCORN - Snack
+FIN - Swim
+SUICIDE - Tragedy
+PENCIL - Writing
+PEANUT BUTTER - Spread
+FISHING - Angling
+DIRECT - Lead
+INSURANCE - Coverage
+SOUTHERN - Southern
+DECISION - Choice
+ATTACK - Assault
+CLERK - Attendant
+ACTIVITY - Engagement
+POLICE - Law enforcement
+BOND - Connection
+FRIGHTENED - Scared
+FREEZE - Chill
+BAPTIST - Religion
+ENTERTAINMENT - Amusement
+CAUTION - Warning
+FEMALE - Woman
+FLEA - Parasite
+GRADUATE - Degree
+SHUT - Close
+STOP - Halt
+FREQUENT - Regular
+CIGAR - Smoke
+BURIAL - Interment
+MEND - Repair
+SEPARATE - Divide
+STARS - Celestial
+EYEBALL - Eye
+STRICT - Rigorous
+CUSS - Swear
+ALARM - Alert
+BRAKE - Stop
+ABILITY - Capability
+BLUFF - Deception
+OUTCOME - Result
+MINK - Fur
+FORBIDDEN - Prohibited
+ASTEROID - Celestial
+JOY - Happiness
+ACQUIRE - Obtain
+ECONOMY - Financial
+FLOAT - Drift
+PLAYING - Recreation
+BOIL - Heat
+DOMAIN - Territory
+INCLINE - Lean
+ANXIOUS - Nervous
+BRANDY - Alcohol
+RECIPE - Cooking
+SUN - Sunshine
+FRIENDSHIP - Companionship
+
+CREW: Team
+PIGMENT: Color
+INVENT: Innovation
+LEVER: Mechanism
+RELIABLE: Trustworthy
+FACTORY: Manufacturing
+DENT: Damage
+NEIGHBOR: Community
+IMAGINATION: Creativity
+LIVING: Life
+SEASON: Weather
+SHOWER: Cleanliness
+PRIM: Refined
+RURAL: Countryside
+CHEDDAR: Cheese
+DECORATION: Ornament
+FENCE: Boundary
+CORPORAL: Physical
+BRIEF: Concise
+ANXIETY: Worry
+ASSUME: Presume
+DISCOURAGE: Deter
+ROPE: Cord
+HAUNT: Ghost
+SECURE: Safe
+SURFACE: Exterior
+RADIO: Broadcast
+PUKE: Vomit
+EDGE: Boundary
+CALIFORNIA: Sunshine
+SAVE: Preserve
+CATERPILLAR: Larva
+FLUSH: Drain
+BASIC: Fundamental
+GOODBYE: Farewell
+STRANGE: Unusual
+STRAP: Fasten
+CONSIDER: Ponder
+ROOF: Top
+DANGEROUS: Risky
+IMPORTANT: Significant
+BULLY: Intimidate
+LIGHT: Illuminate
+KING: Monarch
+ANGLE: Perspective
+POPCORN: Snack
+FIN: Fish
+SUICIDE: Self-harm
+PENCIL: Writing
+PEANUT BUTTER: Spread
+FISHING: Angling
+DIRECT: Lead
+INSURANCE: Coverage
+SOUTHERN: Region
+DECISION: Choice
+ATTACK: Assault
+CLERK: Employee
+ACTIVITY: Action
+POLICE: Law enforcement
+BOND: Connection
+FRIGHTENED: Terrified
+FREEZE: Chill
+BAPTIST: Denomination
+ENTERTAINMENT: Amusement
+CAUTION: Warning
+FEMALE: Woman
+FLEA: Parasite
+GRADUATE: Degree
+SHUT: Close
+STOP: Halt
+FREQUENT: Regular
+CIGAR: Cigarette
+BURIAL: Interment
+MEND: Repair
+SEPARATE: Divide
+STARS: Celestial
+EYEBALL: Eye
+STRICT: Rigorous
+CUSS: Swear
+ALARM: Alert
+BRAKE: Stop
+ABILITY: Skill
+BLUFF: Deceive
+OUTCOME: Result
+MINK: Fur
+FORBIDDEN: Prohibited
+ASTEROID: Celestial
+JOY: Happiness
+ACQUIRE: Obtain
+ECONOMY: Financial
+FLOAT: Drift
+PLAYING: Recreation
+BOIL: Cook
+DOMAIN: Territory
+INCLINE: Lean
+ANXIOUS: Worried
+BRANDY: Liquor
+RECIPE: Cooking
+SUN: Solar
+FRIENDSHIP: Companionship
+
+CREW: Team
+PIGMENT: Color
+INVENT: Innovation
+LEVER: Mechanical
+RELIABLE: Trustworthy
+FACTORY: Production
+DENT: Damage
+NEIGHBOR: Community
+IMAGINATION: Creativity
+LIVING: Life
+SEASON: Change
+SHOWER: Refresh
+PRIM: Proper
+RURAL: Countryside
+CHEDDAR: Cheese
+DECORATION: Ornament
+FENCE: Boundary
+CORPORAL: Physical
+BRIEF: Concise
+ANXIETY: Worry
+ASSUME: Presume
+DISCOURAGE: Deter
+ROPE: Cord
+HAUNT: Persist
+SECURE: Safe
+SURFACE: Exterior
+RADIO: Broadcast
+PUKE: Vomit
+EDGE: Border
+CALIFORNIA: Sunshine
+SAVE: Preserve
+CATERPILLAR: Transformation
+FLUSH: Cleanse
+BASIC: Fundamental
+GOODBYE: Farewell
+STRANGE: Peculiar
+STRAP: Fasten
+CONSIDER: Ponder
+ROOF: Overhead
+DANGEROUS: Hazardous
+IMPORTANT: Significant
+BULLY: Intimidate
+LIGHT: Illuminate
+KING: Ruler
+ANGLE: Perspective
+POPCORN: Snack
+FIN: Swim
+SUICIDE: Tragedy
+PENCIL: Write
+PEANUT BUTTER: Spread
+FISHING: Angling
+DIRECT: Guide
+INSURANCE: Protection
+SOUTHERN: Warm
+DECISION: Choice
+ATTACK: Strike
+CLERK: Assistant
+ACTIVITY: Engagement
+POLICE: Enforce
+BOND: Connection
+FRIGHTENED: Scared
+FREEZE: Halt
+BAPTIST: Religious
+ENTERTAINMENT: Amusement
+CAUTION: Warning
+FEMALE: Woman
+FLEA: Parasite
+GRADUATE: Degree
+SHUT: Close
+STOP: Halt
+FREQUENT: Regular
+CIGAR: Smoke
+BURIAL: Interment
+MEND: Repair
+SEPARATE: Divide
+STARS: Celestial
+EYEBALL: Vision
+STRICT: Rigorous
+CUSS: Swear
+ALARM: Alert
+BRAKE: Stop
+ABILITY: Skill
+BLUFF: Deceive
+OUTCOME: Result
+MINK: Fur
+FORBIDDEN: Prohibited
+ASTEROID: Space
+JOY: Happiness
+ACQUIRE: Obtain
+ECONOMY: Financial
+FLOAT: Drift
+PLAYING: Recreation
+BOIL: Cook
+DOMAIN: Territory
+INCLINE: Lean
+ANXIOUS: Worried
+BRANDY: Spirit
+RECIPE: Cooking
+SUN: Shine
+FRIENDSHIP: Companionship
+
+CREW - Collaboration
+PIGMENT - Color
+INVENT - Innovation
+LEVER - Power
+RELIABLE - Trustworthiness
+FACTORY - Production
+DENT - Damage
+NEIGHBOR - Community
+IMAGINATION - Creativity
+LIVING - Life
+SEASON - Change
+SHOWER - Refresh
+PRIM - Formal
+RURAL - Countryside
+CHEDDAR - Cheese
+DECORATION - Beautification
+FENCE - Boundary
+CORPORAL - Physical 
+BRIEF - Concise
+ANXIETY - Worry
+ASSUME - Presume
+DISCOURAGE - Deter
+ROPE - Knot
+HAUNT - Ghost
+SECURE - Safe
+SURFACE - Exterior
+RADIO - Broadcast
+PUKE - Vomit
+EDGE - Boundary
+CALIFORNIA - West
+SAVE - Preserve
+CATERPILLAR - Metamorphosis
+FLUSH - Cleanse
+BASIC - Fundamental
+GOODBYE - Farewell
+STRANGE - Unusual
+STRAP - Fasten
+CONSIDER - Ponder
+ROOF - Overhead
+DANGEROUS - Hazardous
+IMPORTANT - Essential
+BULLY - Intimidate
+LIGHT - Illuminate
+KING - Monarch
+ANGLE - Perspective
+POPCORN - Snack
+FIN - Appendage
+SUICIDE - Tragedy
+PENCIL - Writing
+PEANUT BUTTER - Spread
+FISHING - Angling
+DIRECT - Lead
+INSURANCE - Protection
+SOUTHERN - Southern
+DECISION - Choice
+ATTACK - Assault
+CLERK - Attendant
+ACTIVITY - Engagement
+POLICE - Law enforcement
+BOND - Connection
+FRIGHTENED - Scared
+FREEZE - Solidify
+BAPTIST - Religion
+ENTERTAINMENT - Amusement
+CAUTION - Warning
+FEMALE - Woman
+FLEA - Parasite
+GRADUATE - Degree
+SHUT - Close
+STOP - Halt
+FREQUENT - Regular
+CIGAR - Smoke
+BURIAL - Funeral
+MEND - Repair
+SEPARATE - Divide
+STARS - Celestial
+EYEBALL - Vision
+STRICT - Stringent
+CUSS - Curse
+ALARM - Alert
+BRAKE - Stop
+ABILITY - Capability
+BLUFF - Deceive
+OUTCOME - Result
+MINK - Fur
+FORBIDDEN - Prohibited
+ASTEROID - Space
+JOY - Happiness
+ACQUIRE - Obtain
+ECONOMY - Financial
+FLOAT - Drift
+PLAYING - Recreation
+BOIL - Cook
+DOMAIN - Territory
+INCLINE - Lean
+ANXIOUS - Worried
+BRANDY - Alcohol
+RECIPE - Cooking
+SUN - Sunshine
+FRIENDSHIP - Companionship
+
+CREW: Collaboration
+PIGMENT: Color
+INVENT: Innovation
+LEVER: Mechanical advantage
+RELIABLE: Trustworthy
+FACTORY: Production
+DENT: Damage
+NEIGHBOR: Community
+IMAGINATION: Creativity
+LIVING: Existence
+SEASON: Change
+SHOWER: Cleansing
+PRIM: Proper
+RURAL: Countryside
+CHEDDAR: Cheese
+DECORATION: Ornamentation
+FENCE: Boundary
+CORPORAL: Physical
+BRIEF: Concise
+ANXIETY: Unease
+ASSUME: Presume
+DISCOURAGE: Deter
+ROPE: Tether
+HAUNT: Ghostly
+SECURE: Safe
+SURFACE: Exterior
+RADIO: Broadcast
+PUKE: Vomit
+EDGE: Boundary
+CALIFORNIA: Sunshine
+SAVE: Preserve
+CATERPILLAR: Metamorphosis
+FLUSH: Cleanse
+BASIC: Fundamental
+GOODBYE: Farewell
+STRANGE: Unusual
+STRAP: Secure
+CONSIDER: Ponder
+ROOF: Overhead
+DANGEROUS: Hazardous
+IMPORTANT: Significance
+BULLY: Intimidate
+LIGHT: Illuminate
+KING: Monarch
+ANGLE: Perspective
+POPCORN: Snack
+FIN: Paddle
+SUICIDE: Tragic
+PENCIL: Writing
+PEANUT BUTTER: Spread
+FISHING: Angling
+DIRECT: Guide
+INSURANCE: Protection
+SOUTHERN: Region
+DECISION: Choice
+ATTACK: Assault
+CLERK: Attendant
+ACTIVITY: Engagement
+POLICE: Enforcement
+BOND: Connection
+FRIGHTENED: Fearful
+FREEZE: Solidify
+BAPTIST: Religious
+ENTERTAINMENT: Amusement
+CAUTION: Warning
+FEMALE: Woman
+FLEA: Parasite
+GRADUATE: Completion
+SHUT: Close
+STOP: Halt
+FREQUENT: Regular
+CIGAR: Smoke
+BURIAL: Interment
+MEND: Repair
+SEPARATE: Divide
+STARS: Celestial
+EYEBALL: Visual
+STRICT: Rigorous
+CUSS: Curse
+ALARM: Alert
+BRAKE: Stop
+ABILITY: Capability
+BLUFF: Deceive
+OUTCOME: Result
+MINK: Fur
+FORBIDDEN: Prohibited
+ASTEROID: Celestial
+JOY: Happiness
+ACQUIRE: Obtain
+ECONOMY: Finances
+FLOAT: Drift
+PLAYING: Recreation
+BOIL: Cook
+DOMAIN: Territory
+INCLINE: Lean
+ANXIOUS: Worried
+BRANDY: Liquor
+RECIPE: Formula
+SUN: Sunlight
+FRIENDSHIP: Companionship
+
+CREW: Team
+PIGMENT: Color
+INVENT: Innovation
+LEVER: Power
+RELIABLE: Trustworthy
+FACTORY: Production
+DENT: Damage
+NEIGHBOR: Community
+IMAGINATION: Creativity
+LIVING: Life
+SEASON: Change
+SHOWER: Cleanse
+PRIM: Proper
+RURAL: Countryside
+CHEDDAR: Cheese
+DECORATION: Ornament
+FENCE: Barrier
+CORPORAL: Physical
+BRIEF: Concise
+ANXIETY: Worry
+ASSUME: Presume
+DISCOURAGE: Demoralize
+ROPE: Line
+HAUNT: Dwell
+SECURE: Safe
+SURFACE: Exterior
+RADIO: Transmit
+PUKE: Vomit
+EDGE: Border
+CALIFORNIA: Sunshine
+SAVE: Preserve
+CATERPILLAR: Transform
+FLUSH: Clean
+BASIC: Fundamental
+GOODBYE: Farewell
+STRANGE: Odd
+STRAP: Fasten
+CONSIDER: Contemplate
+ROOF: Shelter
+DANGEROUS: Hazardous
+IMPORTANT: Essential
+BULLY: Intimidate
+LIGHT: Illuminate
+KING: Royalty
+ANGLE: Perspective
+POPCORN: Snack
+FIN: End
+SUICIDE: Desperation
+PENCIL: Writing
+PEANUT BUTTER: Nutty
+FISHING: Angling
+DIRECT: Guide
+INSURANCE: Protection
+SOUTHERN: Warm
+DECISION: Choice
+ATTACK: Strike
+CLERK: Employee
+ACTIVITY: Engagement
+POLICE: Law
+BOND: Connection
+FRIGHTENED: Scared
+FREEZE: Solidify
+BAPTIST: Religion
+ENTERTAINMENT: Amusement
+CAUTION: Warning
+FEMALE: Woman
+FLEA: Parasite
+GRADUATE: Degree
+SHUT: Close
+STOP: Cease
+FREQUENT: Regular
+CIGAR: Smoke
+BURIAL: Interment
+MEND: Repair
+SEPARATE: Divide
+STARS: Celestial
+EYEBALL: Vision
+STRICT: Firm
+CUSS: Curse
+ALARM: Alert
+BRAKE: Stop
+ABILITY: Skill
+BLUFF: Deceive
+OUTCOME: Result
+MINK: Fur
+FORBIDDEN: Forbidden
+ASTEROID: Space
+JOY: Happiness
+ACQUIRE: Obtain
+ECONOMY: Finance
+FLOAT: Drift
+PLAYING: Recreation
+BOIL: Heat
+DOMAIN: Territory
+INCLINE: Lean
+ANXIOUS: Nervous
+BRANDY: Liquor
+RECIPE: Cooking
+SUN: Shine
+FRIENDSHIP: Companionship
+
+CREW - Teamwork
+PIGMENT - Color
+INVENT - Innovation
+LEVER - Power
+RELIABLE - Trustworthiness
+FACTORY - Production
+DENT - Damage
+NEIGHBOR - Community
+IMAGINATION - Creativity
+LIVING - Life
+SEASON - Change
+SHOWER - Refreshment
+PRIM - Formality
+RURAL - Countryside
+CHEDDAR - Cheese
+DECORATION - Ornamentation
+FENCE - Boundary
+CORPORAL - Body
+BRIEF - Concise
+ANXIETY - Worry
+ASSUME - Presumption
+DISCOURAGE - Demotivate
+ROPE - Tension
+HAUNT - Ghost
+SECURE - Safe
+SURFACE - Exterior
+RADIO - Broadcasting
+PUKE - Vomit
+EDGE - Boundary
+CALIFORNIA - Sunshine
+SAVE - Preserve
+CATERPILLAR - Transformation
+FLUSH - Cleanse
+BASIC - Fundamental
+GOODBYE - Farewell
+STRANGE - Unfamiliar
+STRAP - Fasten
+CONSIDER - Ponder
+ROOF - Overhead
+DANGEROUS - Hazardous
+IMPORTANT - Significant
+BULLY - Intimidate
+LIGHT - Illuminate
+KING - Royalty
+ANGLE - Perspective
+POPCORN - Snack
+FIN - End
+SUICIDE - Tragedy
+PENCIL - Writing
+PEANUT BUTTER - Nutty
+FISHING - Relaxation
+DIRECT - Guide
+INSURANCE - Protection
+SOUTHERN - Warmth
+DECISION - Choice
+ATTACK - Assault
+CLERK - Service
+ACTIVITY - Action
+POLICE - Enforcement
+BOND - Connection
+FRIGHTENED - Fearful
+FREEZE - Immobilize
+BAPTIST - Faith
+ENTERTAINMENT - Amusement
+CAUTION - Alertness
+FEMALE - Woman
+FLEA - Pest
+GRADUATE - Accomplishment
+SHUT - Close
+STOP - Halt
+FREQUENT - Regular
+CIGAR - Smoke
+BURIAL - Rest
+MEND - Repair
+SEPARATE - Divide
+STARS - Celestial
+EYEBALL - Vision
+STRICT - Rigorous
+CUSS - Swear
+ALARM - Alert
+BRAKE - Slow
+ABILITY - Capability
+BLUFF - Deceive
+OUTCOME - Result
+MINK - Fur
+FORBIDDEN - Prohibited
+ASTEROID - Space
+JOY - Happiness
+ACQUIRE - Obtain
+ECONOMY - Finances
+FLOAT - Drift
+PLAYING - Fun
+BOIL - Heat
+DOMAIN - Territory
+INCLINE - Tilt
+ANXIOUS - Nervous
+BRANDY - Liquor
+RECIPE - Cooking
+SUN - Sunshine
+FRIENDSHIP - Connection
+
+crew: teamwork
+pigment: color
+invent: creativity
+lever: mechanical advantage
+reliable: trustworthiness
+factory: manufacturing
+dent: damage
+neighbor: community
+imagination: creativity
+living: existence
+season: change
+shower: cleanliness
+prim: proper
+rural: countryside
+cheddar: cheese
+decoration: adornment
+fence: boundary
+corporal: physical
+brief: concise
+anxiety: worry
+assume: presume
+discourage: demotivate
+rope: tether
+haunt: ghost
+secure: safe
+surface: exterior
+radio: broadcasting
+puke: vomit
+edge: boundary
+california: sunshine
+save: preserve
+caterpillar: metamorphosis
+flush: cleanse
+basic: fundamental
+goodbye: farewell
+strange: peculiar
+strap: fasten
+consider: contemplate
+roof: shelter
+dangerous: hazardous
+important: significant
+bully: intimidate
+light: illumination
+king: royalty
+angle: perspective
+popcorn: snack
+fin: money
+suicide: despair
+pencil: writing
+peanut butter: spread
+fishing: angling
+direct: guide
+insurance: protection
+southern: region
+decision: choice
+attack: assault
+clerk: employee
+activity: action
+police: law enforcement
+bond: connection
+frightened: scared
+freeze: solidify
+baptist: religious denomination
+entertainment: amusement
+caution: warning
+female: woman
+flea: parasite
+graduate: degree
+shut: close
+stop: cease
+frequent: often
+cigar: smoke
+burial: interment
+mend: repair
+separate: divide
+stars: celestial bodies
+eyeball: gaze
+strict: rigid
+cuss: swear
+alarm: alert
+brake: stop
+ability: skill
+bluff: deceive
+outcome: result
+mink: fur
+forbidden: prohibited
+asteroid: celestial object
+joy: happiness
+acquire: obtain
+economy: financial system
+float: drift
+playing: recreation
+boil: cook
+domain: territory
+incline: slope
+anxious: nervous
+brandy: alcoholic beverage
+recipe: instructions
+sun: star
+friendship: companionship
+
+CREW: Collaboration
+PIGMENT: Color
+INVENT: Innovation
+LEVER: Mechanical advantage
+RELIABLE: Trustworthy
+FACTORY: Production
+DENT: Damage
+NEIGHBOR: Community
+IMAGINATION: Creativity
+LIVING: Existence
+SEASON: Change
+SHOWER: Cleanliness
+PRIM: Proper
+RURAL: Countryside
+CHEDDAR: Cheese
+DECORATION: Ornamentation
+FENCE: Boundary
+CORPORAL: Physical
+BRIEF: Concise
+ANXIETY: Worry
+ASSUME: Presume
+DISCOURAGE: Deter
+ROPE: Knot
+HAUNT: Ghostly
+SECURE: Safe
+SURFACE: Exterior
+RADIO: Broadcasting
+PUKE: Vomit
+EDGE: Border
+CALIFORNIA: Golden State
+SAVE: Preserve
+CATERPILLAR: Metamorphosis
+FLUSH: Irrigate
+BASIC: Fundamental
+GOODBYE: Farewell
+STRANGE: Unusual
+STRAP: Fasten
+CONSIDER: Ponder
+ROOF: Top
+DANGEROUS: Hazardous
+IMPORTANT: Significant
+BULLY: Intimidate
+LIGHT: Illuminate
+KING: Ruler
+ANGLE: Slope
+POPCORN: Snack
+FIN: Appendage
+SUICIDE: Tragedy
+PENCIL: Writing tool
+PEANUT BUTTER: Spread
+FISHING: Recreation
+DIRECT: Guide
+INSURANCE: Protection
+SOUTHERN: Region
+DECISION: Choice
+ATTACK: Assault
+CLERK: Assistant
+ACTIVITY: Engagement
+POLICE: Law enforcement
+BOND: Connection
+FRIGHTENED: Scared
+FREEZE: Solidify
+BAPTIST: Denomination
+ENTERTAINMENT: Amusement
+CAUTION: Alertness
+FEMALE: Woman
+FLEA: Parasite
+GRADUATE: Achieve
+SHUT: Close
+STOP: Halt
+FREQUENT: Regular
+CIGAR: Smoke
+BURIAL: Interment
+MEND: Repair
+SEPARATE: Divide
+STARS: Celestial
+EYEBALL: Visual organ
+STRICT: Rigorous
+CUSS: Swear
+ALARM: Alert
+BRAKE: Stopper
+ABILITY: Capability
+BLUFF: Deception
+OUTCOME: Result
+MINK: Fur
+FORBIDDEN: Prohibited
+ASTEROID: Celestial body
+JOY: Happiness
+ACQUIRE: Obtain
+ECONOMY: Financial system
+FLOAT: Drift
+PLAYING: Recreation
+BOIL: Cook
+DOMAIN: Territory
+INCLINE: Slope
+ANXIOUS: Worried
+BRANDY: Liquor
+RECIPE: Instructions
+SUN: Star
+FRIENDSHIP: Companionship
+
+CREW: Team
+PIGMENT: Color
+INVENT: Innovation
+LEVER: Mechanism
+RELIABLE: Trustworthy
+FACTORY: Production
+DENT: Damage
+NEIGHBOR: Community
+IMAGINATION: Creativity
+LIVING: Life
+SEASON: Time
+SHOWER: Clean
+PRIM: Proper
+RURAL: Countryside
+CHEDDAR: Cheese
+DECORATION: Ornament
+FENCE: Boundary
+CORPORAL: Military
+BRIEF: Short
+ANXIETY: Worry
+ASSUME: Presume
+DISCOURAGE: Deter
+ROPE: Cord
+HAUNT: Ghost
+SECURE: Safe
+SURFACE: Exterior
+RADIO: Broadcasting
+PUKE: Vomit
+EDGE: Boundary
+CALIFORNIA: State
+SAVE: Preserve
+CATERPILLAR: Larva
+FLUSH: Rinse
+BASIC: Fundamental
+GOODBYE: Farewell
+STRANGE: Unusual
+STRAP: Fasten
+CONSIDER: Ponder
+ROOF: Top
+DANGEROUS: Hazardous
+IMPORTANT: Significant
+BULLY: Intimidate
+LIGHT: Illuminate
+KING: Monarch
+ANGLE: Perspective
+POPCORN: Snack
+FIN: Swim
+SUICIDE: Self-destruction
+PENCIL: Writing
+PEANUT BUTTER: Spread
+FISHING: Angling
+DIRECT: Guide
+INSURANCE: Protection
+SOUTHERN: Southernmost
+DECISION: Choice
+ATTACK: Assault
+CLERK: Salesperson
+ACTIVITY: Engagement
+POLICE: Law enforcement
+BOND: Connection
+FRIGHTENED: Terrified
+FREEZE: Solidify
+BAPTIST: Denomination
+ENTERTAINMENT: Amusement
+CAUTION: Warning
+FEMALE: Woman
+FLEA: Parasite
+GRADUATE: Degree
+SHUT: Close
+STOP: Halt
+FREQUENT: Regular
+CIGAR: Smoke
+BURIAL: Interment
+MEND: Repair
+SEPARATE: Divide
+STARS: Celestial
+EYEBALL: Vision
+STRICT: Rigorous
+CUSS: Swear
+ALARM: Alert
+BRAKE: Stop
+ABILITY: Capability
+BLUFF: Deception
+OUTCOME: Result
+MINK: Fur
+FORBIDDEN: Prohibited
+ASTEROID: Celestial body
+JOY: Happiness
+ACQUIRE: Obtain
+ECONOMY: Finances
+FLOAT: Drift
+PLAYING: Recreation
+BOIL: Heat
+DOMAIN: Territory
+INCLINE: Slope
+ANXIOUS: Worried
+BRANDY: Liquor
+RECIPE: Cooking
+SUN: Star
+FRIENDSHIP: Companionship
+
+CREW: Team
+PIGMENT: Color
+INVENT: Innovation
+LEVER: Mechanical
+RELIABLE: Trustworthy
+FACTORY: Production
+DENT: Damage
+NEIGHBOR: Community
+IMAGINATION: Creativity
+LIVING: Existence
+SEASON: Time
+SHOWER: Clean
+PRIM: Proper
+RURAL: Countryside
+CHEDDAR: Cheese
+DECORATION: Ornament
+FENCE: Boundary
+CORPORAL: Physical
+BRIEF: Short
+ANXIETY: Worry
+ASSUME: Presume
+DISCOURAGE: Deter
+ROPE: Cord
+HAUNT: Ghost
+SECURE: Safe
+SURFACE: Exterior
+RADIO: Broadcast
+PUKE: Vomit
+EDGE: Boundary
+CALIFORNIA: Sunshine
+SAVE: Preserve
+CATERPILLAR: Larva
+FLUSH: Empty
+BASIC: Fundamental
+GOODBYE: Farewell
+STRANGE: Odd
+STRAP: Fasten
+CONSIDER: Contemplate
+ROOF: Top
+DANGEROUS: Hazardous
+IMPORTANT: Essential
+BULLY: Intimidate
+LIGHT: Illumination
+KING: Monarch
+ANGLE: Perspective
+POPCORN: Snack
+FIN: Appendage
+SUICIDE: Self-destruction
+PENCIL: Writing tool
+PEANUT BUTTER: Spread
+FISHING: Angling
+DIRECT: Guide
+INSURANCE: Coverage
+SOUTHERN: Southernmost
+DECISION: Choice
+ATTACK: Assault
+CLERK: Attendant
+ACTIVITY: Action
+POLICE: Enforcement
+BOND: Connection
+FRIGHTENED: Scared
+FREEZE: Solidify
+BAPTIST: Denomination
+ENTERTAINMENT: Amusement
+CAUTION: Alertness
+FEMALE: Woman
+FLEA: Parasite
+GRADUATE: Complete
+SHUT: Close
+STOP: Halt
+FREQUENT: Regular
+CIGAR: Smoke
+BURIAL: Interment
+MEND: Repair
+SEPARATE: Divide
+STARS: Celestial
+EYEBALL: Vision
+STRICT: Rigorous
+CUSS: Swear
+ALARM: Alert
+BRAKE: Stop
+ABILITY: Skill
+BLUFF: Deceive
+OUTCOME: Result
+MINK: Fur
+FORBIDDEN: Prohibited
+ASTEROID: Space rock
+JOY: Happiness
+ACQUIRE: Obtain
+ECONOMY: Financial system
+FLOAT: Drift
+PLAYING: Recreation
+BOIL: Heat
+DOMAIN: Territory
+INCLINE: Slope
+ANXIOUS: Worried
+BRANDY: Liquor
+RECIPE: Cooking instructions
+SUN: Star
+FRIENDSHIP: Bonding
+
+CREW: Team
+PIGMENT: Color
+INVENT: Innovation
+LEVER: Mechanism
+RELIABLE: Trustworthy
+FACTORY: Manufacturing
+DENT: Damage
+NEIGHBOR: Community
+IMAGINATION: Creativity
+LIVING: Life
+SEASON: Time
+SHOWER: Cleanliness
+PRIM: Proper
+RURAL: Countryside
+CHEDDAR: Cheese
+DECORATION: Ornament
+FENCE: Boundary
+CORPORAL: Body
+BRIEF: Concise
+ANXIETY: Worry
+ASSUME: Suppose
+DISCOURAGE: Deter
+ROPE: Tie
+HAUNT: Ghost
+SECURE: Safe
+SURFACE: Exterior
+RADIO: Broadcast
+PUKE: Vomit
+EDGE: Boundary
+CALIFORNIA: State
+SAVE: Preserve
+CATERPILLAR: Larva
+FLUSH: Cleanse
+BASIC: Fundamental
+GOODBYE: Farewell
+STRANGE: Unusual
+STRAP: Fasten
+CONSIDER: Ponder
+ROOF: Top
+DANGEROUS: Hazardous
+IMPORTANT: Significant
+BULLY: Intimidate
+LIGHT: Illuminate
+KING: Monarch
+ANGLE: Position
+POPCORN: Snack
+FIN: Fish
+SUICIDE: Self-destruction
+PENCIL: Writing utensil
+PEANUT BUTTER: Spread
+FISHING: Angling
+DIRECT: Lead
+INSURANCE: Coverage
+SOUTHERN: Region
+DECISION: Choice
+ATTACK: Assault
+CLERK: Attendant
+ACTIVITY: Action
+POLICE: Law enforcement
+BOND: Connection
+FRIGHTENED: Scared
+FREEZE: Solidify
+BAPTIST: Denomination
+ENTERTAINMENT: Amusement
+CAUTION: Warning
+FEMALE: Woman
+FLEA: Parasite
+GRADUATE: Degree
+SHUT: Close
+STOP: Halt
+FREQUENT: Regular
+CIGAR: Smoke
+BURIAL: Interment
+MEND: Repair
+SEPARATE: Divide
+STARS: Celestial bodies
+EYEBALL: Eye
+STRICT: Rigorous
+CUSS: Swear
+ALARM: Alert
+BRAKE: Stop
+ABILITY: Capability
+BLUFF: Deceive
+OUTCOME: Result
+MINK: Fur
+FORBIDDEN: Prohibited
+ASTEROID: Celestial object
+JOY: Happiness
+ACQUIRE: Obtain
+ECONOMY: Financial system
+FLOAT: Drift
+PLAYING: Recreation
+BOIL: Cook
+DOMAIN: Area
+INCLINE: Lean
+ANXIOUS: Uneasy
+BRANDY: Liquor
+RECIPE: Cooking instructions
+SUN: Star
+FRIENDSHIP: Companionship
+
+CREW: Team
+PIGMENT: Color
+INVENT: Innovation
+LEVER: Mechanism
+RELIABLE: Trustworthy
+FACTORY: Manufacturing
+DENT: Damage
+NEIGHBOR: Community
+IMAGINATION: Creativity
+LIVING: Life
+SEASON: Time
+SHOWER: Refreshing
+PRIM: Refined
+RURAL: Countryside
+CHEDDAR: Cheese
+DECORATION: Ornament
+FENCE: Barrier
+CORPORAL: Physical
+BRIEF: Concise
+ANXIETY: Worry
+ASSUME: Presume
+DISCOURAGE: Deter
+ROPE: Cord
+HAUNT: Ghost
+SECURE: Safe
+SURFACE: Exterior
+RADIO: Broadcasting
+PUKE: Vomit
+EDGE: Border
+CALIFORNIA: Sunshine
+SAVE: Preserve
+CATERPILLAR: Metamorphosis
+FLUSH: Cleanse
+BASIC: Fundamental
+GOODBYE: Farewell
+STRANGE: Unusual
+STRAP: Fasten
+CONSIDER: Ponder
+ROOF: Overhead
+DANGEROUS: Hazardous
+IMPORTANT: Essential
+BULLY: Intimidate
+LIGHT: Illuminate
+KING: Monarch
+ANGLE: Perspective
+POPCORN: Snack
+FIN: Appendage
+SUICIDE: Tragedy
+PENCIL: Writing
+PEANUT BUTTER: Spread
+FISHING: Angling
+DIRECT: Lead
+INSURANCE: Coverage
+SOUTHERN: Southern
+DECISION: Choice
+ATTACK: Assault
+CLERK: Salesperson
+ACTIVITY: Action
+POLICE: Law enforcement
+BOND: Connection
+FRIGHTENED: Scared
+FREEZE: Solidify
+BAPTIST: Religion
+ENTERTAINMENT: Amusement
+CAUTION: Warning
+FEMALE: Woman
+FLEA: Parasite
+GRADUATE: Completion
+SHUT: Close
+STOP: Halt
+FREQUENT: Regular
+CIGAR: Smoke
+BURIAL: Interment
+MEND: Repair
+SEPARATE: Divide
+STARS: Celestial
+EYEBALL: Vision
+STRICT: Rigorous
+CUSS: Swear
+ALARM: Alert
+BRAKE: Stop
+ABILITY: Skill
+BLUFF: Deception
+OUTCOME: Result
+MINK: Fur
+FORBIDDEN: Prohibited
+ASTEROID: Space
+JOY: Happiness
+ACQUIRE: Obtain
+ECONOMY: Financial
+FLOAT: Drift
+PLAYING: Recreation
+BOIL: Cook
+DOMAIN: Territory
+INCLINE: Lean
+ANXIOUS: Nervous
+BRANDY: Liquor
+RECIPE: Cooking
+SUN: Sunshine
+FRIENDSHIP: Companionship
+
+CREW - Team
+PIGMENT - Color
+INVENT - Innovation
+LEVER - Power
+RELIABLE - Trustworthy
+FACTORY - Production
+DENT - Damage
+NEIGHBOR - Community
+IMAGINATION - Creativity
+LIVING - Life
+SEASON - Change
+SHOWER - Clean
+PRIM - Proper
+RURAL - Countryside
+CHEDDAR - Cheese
+DECORATION - Ornament
+FENCE - Boundary
+CORPORAL - Physical
+BRIEF - Concise
+ANXIETY - Worry
+ASSUME - Presume
+DISCOURAGE - Demotivate
+ROPE - Tie
+HAUNT - Ghostly
+SECURE - Safe
+SURFACE - Exterior
+RADIO - Broadcast
+PUKE - Vomit
+EDGE - Border
+CALIFORNIA - Sunshine
+SAVE - Preserve
+CATERPILLAR - Transformation
+FLUSH - Cleanse
+BASIC - Fundamental
+GOODBYE - Farewell
+STRANGE - Unusual
+STRAP - Fasten
+CONSIDER - Ponder
+ROOF - Overhead
+DANGEROUS - Hazardous
+IMPORTANT - Crucial
+BULLY - Intimidate
+LIGHT - Illuminate
+KING - Ruler
+ANGLE - Corner
+POPCORN - Snack
+FIN - Aquatic
+SUICIDE - Tragedy
+PENCIL - Writing
+PEANUT BUTTER - Spread
+FISHING - Angler
+DIRECT - Guide
+INSURANCE - Protection
+SOUTHERN - Southern
+DECISION - Choice
+ATTACK - Assault
+CLERK - Attendant
+ACTIVITY - Action
+POLICE - Enforcement
+BOND - Connection
+FRIGHTENED - Scared
+FREEZE - Chill
+BAPTIST - Baptism
+ENTERTAINMENT - Amusement
+CAUTION - Warning
+FEMALE - Woman
+FLEA - Insect
+GRADUATE - Achieve
+SHUT - Close
+STOP - Halt
+FREQUENT - Regular
+CIGAR - Smoke
+BURIAL - Funeral
+MEND - Fix
+SEPARATE - Divide
+STARS - Celestial
+EYEBALL - Vision
+STRICT - Rigorous
+CUSS - Curse
+ALARM - Alert
+BRAKE - Stop
+ABILITY - Skill
+BLUFF - Deceive
+OUTCOME - Result
+MINK - Fur
+FORBIDDEN - Prohibited
+ASTEROID - Space
+JOY - Happiness
+ACQUIRE - Obtain
+ECONOMY - Finance
+FLOAT - Drift
+PLAYING - Recreation
+BOIL - Heat
+DOMAIN - Territory
+INCLINE - Lean
+ANXIOUS - Nervous
+BRANDY - Liquor
+RECIPE - Instruction
+SUN - Solar
+FRIENDSHIP - Companionship
+
+CREW: Team
+PIGMENT: Color
+INVENT: Innovation
+LEVER: Power
+RELIABLE: Trustworthy
+FACTORY: Production
+DENT: Damage
+NEIGHBOR: Community
+IMAGINATION: Creativity
+LIVING: Life
+SEASON: Change
+SHOWER: Cleanliness
+PRIM: Primness
+RURAL: Countryside
+CHEDDAR: Cheese
+DECORATION: Ornament
+FENCE: Boundary
+CORPORAL: Physical
+BRIEF: Concise
+ANXIETY: Anxiety
+ASSUME: Presume
+DISCOURAGE: Deter
+ROPE: Cord
+HAUNT: Ghost
+SECURE: Safe
+SURFACE: Exterior
+RADIO: Broadcast
+PUKE: Vomit
+EDGE: Border
+CALIFORNIA: Sunshine
+SAVE: Preserve
+CATERPILLAR: Metamorphosis
+FLUSH: Cleanse
+BASIC: Fundamental
+GOODBYE: Farewell
+STRANGE: Unusual
+STRAP: Fasten
+CONSIDER: Ponder
+ROOF: Overhead
+DANGEROUS: Hazardous
+IMPORTANT: Vital
+BULLY: Intimidate
+LIGHT: Illuminate
+KING: Monarch
+ANGLE: Perspective
+POPCORN: Snack
+FIN: Swim
+SUICIDE: Tragedy
+PENCIL: Write
+PEANUT BUTTER: Spread
+FISHING: Angling
+DIRECT: Guide
+INSURANCE: Coverage
+SOUTHERN: Warmth
+DECISION: Choice
+ATTACK: Assault
+CLERK: Attendant
+ACTIVITY: Engagement
+POLICE: Law
+BOND: Connection
+FRIGHTENED: Scared
+FREEZE: Halt
+BAPTIST: Faith
+ENTERTAINMENT: Amusement
+CAUTION: Warning
+FEMALE: Woman
+FLEA: Parasite
+GRADUATE: Completion
+SHUT: Close
+STOP: Cease
+FREQUENT: Regular
+CIGAR: Smoke
+BURIAL: Interment
+MEND: Repair
+SEPARATE: Divide
+STARS: Celestial
+EYEBALL: View
+STRICT: Rigorous
+CUSS: Swear
+ALARM: Alert
+BRAKE: Stop
+ABILITY: Skill
+BLUFF: Deceive
+OUTCOME: Result
+MINK: Fur
+FORBIDDEN: Prohibited
+ASTEROID: Space
+JOY: Happiness
+ACQUIRE: Obtain
+ECONOMY: Finance
+FLOAT: Drift
+PLAYING: Fun
+BOIL: Heat
+DOMAIN: Territory
+INCLINE: Lean
+ANXIOUS: Nervous
+BRANDY: Alcohol
+RECIPE: Method
+SUN: Light
+FRIENDSHIP: Bonding
+
+CREW: Collaboration
+PIGMENT: Color
+INVENT: Innovation
+LEVER: Mechanical
+RELIABLE: Dependable
+FACTORY: Production
+DENT: Damage
+NEIGHBOR: Community
+IMAGINATION: Creativity
+LIVING: Existence
+SEASON: Change
+SHOWER: Cleanliness
+PRIM: Formal
+RURAL: Countryside
+CHEDDAR: Cheese
+DECORATION: Ornamentation
+FENCE: Boundary
+CORPORAL: Physical
+BRIEF: Concise
+ANXIETY: Worry
+ASSUME: Presume
+DISCOURAGE: Deter
+ROPE: Cord
+HAUNT: Ghost
+SECURE: Safe
+SURFACE: Exterior
+RADIO: Broadcast
+PUKE: Vomit
+EDGE: Border
+CALIFORNIA: Sunshine
+SAVE: Preserve
+CATERPILLAR: Transformation
+FLUSH: Cleanse
+BASIC: Fundamental
+GOODBYE: Farewell
+STRANGE: Unusual
+STRAP: Fasten
+CONSIDER: Ponder
+ROOF: Overhead
+DANGEROUS: Hazardous
+IMPORTANT: Crucial
+BULLY: Intimidate
+LIGHT: Illumination
+KING: Monarch
+ANGLE: Perspective
+POPCORN: Snack
+FIN: Swim
+SUICIDE: Tragedy
+PENCIL: Writing
+PEANUT BUTTER: Spread
+FISHING: Angling
+DIRECT: Guide
+INSURANCE: Protection
+SOUTHERN: Warmth
+DECISION: Choice
+ATTACK: Assault
+CLERK: Employee
+ACTIVITY: Engagement
+POLICE: Law enforcement
+BOND: Connection
+FRIGHTENED: Scared
+FREEZE: Solidify
+BAPTIST: Religious
+ENTERTAINMENT: Amusement
+CAUTION: Alertness
+FEMALE: Woman
+FLEA: Parasite
+GRADUATE: Complete
+SHUT: Close
+STOP: Halt
+FREQUENT: Regular
+CIGAR: Smoke
+BURIAL: Interment
+MEND: Repair
+SEPARATE: Divide
+STARS: Celestial
+EYEBALL: Vision
+STRICT: Rigorous
+CUSS: Swear
+ALARM: Alert
+BRAKE: Stop
+ABILITY: Capability
+BLUFF: Deceive
+OUTCOME: Result
+MINK: Fur
+FORBIDDEN: Prohibited
+ASTEROID: Celestial
+JOY: Happiness
+ACQUIRE: Obtain
+ECONOMY: Finances
+FLOAT: Drift
+PLAYING: Recreation
+BOIL: Heat
+DOMAIN: Territory
+INCLINE: Slope
+ANXIOUS: Worried
+BRANDY: Alcohol
+RECIPE: Formula
+SUN: Sunshine
+FRIENDSHIP: Companionship
+
+CREW: Team
+PIGMENT: Color
+INVENT: Innovation
+LEVER: Power
+RELIABLE: Trust
+FACTORY: Production
+DENT: Damage
+NEIGHBOR: Community
+IMAGINATION: Creativity
+LIVING: Life
+SEASON: Change
+SHOWER: Cleanliness
+PRIM: Proper
+RURAL: Countryside
+CHEDDAR: Cheese
+DECORATION: Ornament
+FENCE: Boundary
+CORPORAL: Body
+BRIEF: Short
+ANXIETY: Stress
+ASSUME: Presume
+DISCOURAGE: Deter
+ROPE: Tie
+HAUNT: Ghost
+SECURE: Safe
+SURFACE: Exterior
+RADIO: Broadcast
+PUKE: Vomit
+EDGE: Border
+CALIFORNIA: Sunshine
+SAVE: Preserve
+CATERPILLAR: Transformation
+FLUSH: Cleanse
+BASIC: Fundamentals
+GOODBYE: Farewell
+STRANGE: Odd
+STRAP: Secure
+CONSIDER: Ponder
+ROOF: Overhead
+DANGEROUS: Hazardous
+IMPORTANT: Essential
+BULLY: Intimidate
+LIGHT: Illuminate
+KING: Monarch
+ANGLE: Perspective
+POPCORN: Snack
+FIN: Swim
+SUICIDE: Tragedy
+PENCIL: Write
+PEANUT BUTTER: Spread
+FISHING: Catch
+DIRECT: Guide
+INSURANCE: Coverage
+SOUTHERN: Warmth
+DECISION: Choice
+ATTACK: Accost
+CLERK: Attendant
+ACTIVITY: Action
+POLICE: Enforce
+BOND: Connection
+FRIGHTENED: Fearful
+FREEZE: Solidify
+BAPTIST: Faith
+ENTERTAINMENT: Amuse
+CAUTION: Warning
+FEMALE: Woman
+FLEA: Parasite
+GRADUATE: Accomplishment
+SHUT: Close
+STOP: Halt
+FREQUENT: Regular
+CIGAR: Smoke
+BURIAL: Interment
+MEND: Repair
+SEPARATE: Divide
+STARS: Celestial
+EYEBALL: Sight
+STRICT: Rigorous
+CUSS: Curse
+ALARM: Alert
+BRAKE: Stop
+ABILITY: Skill
+BLUFF: Deceive
+OUTCOME: Result
+MINK: Fur
+FORBIDDEN: Prohibited
+ASTEROID: Space
+JOY: Happiness
+ACQUIRE: Obtain
+ECONOMY: Finances
+FLOAT: Drift
+PLAYING: Fun
+BOIL: Cook
+DOMAIN: Territory
+INCLINE: Lean
+ANXIOUS: Worried
+BRANDY: Liquor
+RECIPE: Cook
+SUN: Shine
+FRIENDSHIP: Relationship
+
+CREW: Team
+PIGMENT: Color
+INVENT: Innovation
+LEVER: Mechanical Advantage
+RELIABLE: Dependable
+FACTORY: Production
+DENT: Damage
+NEIGHBOR: Community
+IMAGINATION: Creativity
+LIVING: Life
+SEASON: Time
+SHOWER: Cleanliness
+PRIM: Proper
+RURAL: Countryside
+CHEDDAR: Cheese
+DECORATION: Ornamentation
+FENCE: Boundary
+CORPORAL: Physical
+BRIEF: Concise
+ANXIETY: Worry
+ASSUME: Presume
+DISCOURAGE: Deter
+ROPE: Cord
+HAUNT: Haunted
+SECURE: Safe
+SURFACE: Exterior
+RADIO: Broadcasting
+PUKE: Vomit
+EDGE: Boundary
+CALIFORNIA: Golden State
+SAVE: Preserve
+CATERPILLAR: Larva
+FLUSH: Drain
+BASIC: Fundamental
+GOODBYE: Farewell
+STRANGE: Unusual
+STRAP: Fasten
+CONSIDER: Ponder
+ROOF: Top
+DANGEROUS: Hazardous
+IMPORTANT: Essential
+BULLY: Intimidate
+LIGHT: Illumination
+KING: Monarch
+ANGLE: Perspective
+POPCORN: Snack
+FIN: Appendage
+SUICIDE: Self-destruction
+PENCIL: Writing instrument
+PEANUT BUTTER: Spread
+FISHING: Angling
+DIRECT: Guide
+INSURANCE: Coverage
+SOUTHERN: Southernmost
+DECISION: Choice
+ATTACK: Assault
+CLERK: Employee
+ACTIVITY: Engagement
+POLICE: Law enforcement
+BOND: Connection
+FRIGHTENED: Scared
+FREEZE: Solidify
+BAPTIST: Religious denomination
+ENTERTAINMENT: Amusement
+CAUTION: Warning
+FEMALE: Woman
+FLEA: Parasite
+GRADUATE: Degree holder
+SHUT: Close
+STOP: Cease
+FREQUENT: Regular
+CIGAR: Smoke
+BURIAL: Interment
+MEND: Repair
+SEPARATE: Divide
+STARS: Celestial bodies
+EYEBALL: Eye
+STRICT: Rigorous
+CUSS: Swear
+ALARM: Alert
+BRAKE: Slow down
+ABILITY: Skill
+BLUFF: Deceive
+OUTCOME: Result
+MINK: Fur
+FORBIDDEN: Banned
+ASTEROID: Celestial body
+JOY: Happiness
+ACQUIRE: Obtain
+ECONOMY: Financial system
+FLOAT: Buoyant
+PLAYING: Recreation
+BOIL: Heat
+DOMAIN: Territory
+INCLINE: Slope
+ANXIOUS: Worried
+BRANDY: Spirit
+RECIPE: Cooking instructions
+SUN: Star
+FRIENDSHIP: Companionship
+

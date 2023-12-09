@@ -4,7 +4,7 @@ from openai import OpenAI
 import time
 from dotenv import load_dotenv
 
-load_dotenv() # needed to load the API key from .env
+load_dotenv(dotenv_path="C:/Users/Raiko/Desktop/code/TLMproject2023/CAUTION.env",verbose=True) #needed to load the API key from .env #REMOVE
 
 
 def insert_string(original, inserted, index):
@@ -73,17 +73,18 @@ def run_prompt_100_words_together(words, prompt, filename):
     :param prompt: prompt, where there is the string <word>, where individual words will be inserted
     :param filename: name of the .txt file, where the results will be written
     """
-    client = OpenAI()
+    client = OpenAI() 
     response_words = list()
     words_to_send = ""
     for word in words:
         words_to_send += word+", "
     print(words_to_send)
-    for i in range(100):
-        time.sleep(4)
-        prompt_to_send = "You are given a prompt and a list of words. For each word, replace the string '<word>' with a word from the list and give back a one word anwser, return answers for all words."
+    for i in range(20):
+        time.sleep(1)
+        prompt_to_send = "You are given a prompt and a list of words. For each word, replace the string '<word>' with a word from the list and give back a one word response, return answers for all words."
         try:
-            response = client.chat.completions.create(
+            # Timeout to keep loop from freezing
+            response = client.with_options(timeout=30).chat.completions.create(
                 model="gpt-3.5-turbo",
                 messages=[
                     {"role": "system", "content": prompt_to_send},
@@ -93,7 +94,7 @@ def run_prompt_100_words_together(words, prompt, filename):
             )
 
             generated = response.choices[0].message.content
-            print(f"{generated}")
+            #print(f"{generated}")
             response_words.append(generated)
 
         except Exception as e:
@@ -119,10 +120,10 @@ print(words)
 #comment uncomment methods as you please
 
 
-#prompt = "Generate a word related to <word>."
-#run_prompt_100_words_together(words, prompt, "test1")
+prompt = "Provide a word that evokes emotions or thoughts related to the word <word>."
+run_prompt_100_words_together(words, prompt, "response_prompt_2_20_times_7")
 
-prompts = prompts_for_words_one_by_one("prompts")
+#prompts = prompts_for_words_one_by_one("prompts")
 
-print(run_prompt_all_words_one_by_one(words, prompts[5]))
+#print(run_prompt_all_words_one_by_one(words, prompts[5]))
 
