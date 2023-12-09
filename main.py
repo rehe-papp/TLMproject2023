@@ -4,7 +4,7 @@ from openai import OpenAI
 import time
 from dotenv import load_dotenv
 
-load_dotenv(dotenv_path="C:/Users/Raiko/Desktop/code/TLMproject2023/CAUTION.env",verbose=True) #needed to load the API key from .env #REMOVE
+load_dotenv() #needed to load the API key from .env
 
 
 def insert_string(original, inserted, index):
