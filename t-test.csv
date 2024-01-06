@@ -1,0 +1,9 @@
+,Analysis of synonym prevalence,,,
+,Model,Synonym %,T Statistic,p-value
+0,Humans,85.64%,,
+1,GPT3.5 prompt 0,83.96%,1.1226,0.264
+2,GPT3.5 prompt 1,75.04%,-8.8104,0.000
+3,GPT3.5 prompt 2,82.15%,-0.7498,0.455
+4,GPT4 prompt 0,89.09%,3.1035,0.003
+5,GPT4 prompt 1,89.20%,2.5513,0.012
+,GPT4 prompt 2,79.14%,-3.3020,0.001
